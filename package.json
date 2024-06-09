@@ -18,9 +18,9 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@nestjs/common": "9.4.0",
-    "@nestjs/core": "9.4.0",
-    "@nestjs/platform-express": "9.4.0",
+    "@nestjs/common": "9.4.3",
+    "@nestjs/core": "9.4.3",
+    "@nestjs/platform-express": "9.4.3",
     "@prisma/client": "4.13.0",
     "discord.js": "14.14.1",
     "dotenv": "16.3.2",
@@ -29,8 +29,6 @@
   },
   "devDependencies": {
     "@nestjs/cli": "9.4.2",
-    "@nestjs/schematics": "9.1.0",
-    "@nestjs/testing": "9.4.0",
 
     "@types/supertest": "2.0.12",
     "@typescript-eslint/eslint-plugin": "^5.57.0",
